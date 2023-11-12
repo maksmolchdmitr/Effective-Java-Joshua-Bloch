@@ -9,12 +9,12 @@
         3. Могут возвращать объект любого подтипа
             1. Возможность сокрытия реализации возвращаемого объекта
             2. public static методы в интерфейсах с Java
-               8 ([см.](https://github.com/maksmolchdmitr/Effective-Java-Joshua-Bloch/tree/main/useful/links/README.md:2))
+               8 ([см. #2](https://github.com/maksmolchdmitr/Effective-Java-Joshua-Bloch/tree/main/useful/links))
             3. private static методы в интерфейсах с Java
-               9 ([см.](https://github.com/maksmolchdmitr/Effective-Java-Joshua-Bloch/tree/main/useful/links/README.md:2))
+               9 ([см. #2](https://github.com/maksmolchdmitr/Effective-Java-Joshua-Bloch/tree/main/useful/links))
         4. Класс возвращенного объекта может варьироваться от входных параметров
             1. EnumSet и его реализации RegularEnumSet и
-               JumboEnumSet ([см.](https://github.com/maksmolchdmitr/Effective-Java-Joshua-Bloch/tree/main/useful/links/README.md:3)
+               JumboEnumSet ([см. #3](https://github.com/maksmolchdmitr/Effective-Java-Joshua-Bloch/tree/main/useful/links))
         5. Класс возвращаемого объекта не обязан существовать
             1. Паттерн Bridge
     2. Два минуса
