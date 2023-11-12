@@ -1,6 +1,14 @@
 # Effective-Java-Joshua-Bloch
 
+## Полезные ссылки
+
+- [Official examples](https://github.com/jbloch/effective-java-3e-source-code)
+
 ## Глава 1. Введение
+
+- Функциональные возможности различных версий Java
+- [Официальные полные примеры кода](https://github.com/jbloch/effective-java-3e-source-code)
+- Про терминологию в книге
 
 ## Глава 2. Создание и уничтожение объектов
 
