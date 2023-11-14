@@ -10,6 +10,7 @@
 2. Большое кол-во параметров в конструкторе? - паттерн Builder
 3. Получение Singleton с помощью закрытого конструктора или типа перечисления
 4. Обеспечение неинстанцируемости с помощью закрытого конструктора
+5. Dependency injection
 
 ## Глава 3. [Методы, общие для всех объектов](https://github.com/maksmolchdmitr/Effective-Java-Joshua-Bloch/tree/main/chapters/3)
 
