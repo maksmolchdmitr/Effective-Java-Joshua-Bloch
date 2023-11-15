@@ -8,3 +8,4 @@ Template for insert:
 3. [Baeldung статья про EnumSet](https://www.baeldung.com/java-enumset)
 4. [Про Lombok @Builder аннотацию](https://www.baeldung.com/lombok-builder)
 5. [Про паттерн Adapter](https://www.baeldung.com/java-adapter-pattern)
+6. [Про WeakHashMap](https://www.baeldung.com/java-weakhashmap)
